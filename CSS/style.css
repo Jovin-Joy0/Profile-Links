@@ -94,8 +94,10 @@ a{
     text-decoration: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: cornsilk;
-    font-size: 88%;
-    line-height: 1.8;
+    font-size: 120%;
+    line-height: 2.5;
     padding: 3% 0%;
 }
+footer{
+    padding:20% 0% 2% 0%;
 }
